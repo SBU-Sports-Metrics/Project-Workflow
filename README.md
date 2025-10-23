@@ -32,17 +32,17 @@ As this is a collaborative project on Github, a great way to manage and deliver 
 
 ## Suggested project roles for project.
 
-Sid: initial Research, Lit. review, Analysis
+Sid: initial Research, Lit. review, Analysis, research on 1 metric
 
-Paul: Code, Vizualizations, Analysis
+Paul: Code, Vizualizations, Analysis, research on 1 metric
 
-Briggs: Project Management, Code, Vizualizations, Analysis, Readme
+Briggs: Project Management, Code, Vizualizations, Analysis, Readme, research on 1 metric
 
-Jaison: Lit. review, Analysis
+Jaison: Lit. review, Analysis, research on 1 metric
 
-Naira: Devices Research, Metrics determination, Lit. review, Analysis
+Naira: Devices Research, Lit. review, Analysis, research on 1 metric
 
-Initial discovery will guide our efforts to identify metrics sports etc.
+Some aspects will be decided after initial discovery: eg. final sports and 5 Metrics, individual metric allocation etc.
 
 ## Work-scope TBD at our first team meeting. 
 
