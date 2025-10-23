@@ -2,7 +2,9 @@
 
 ### Start Date: Oct 23, 2025
 
-### End Date: Dec 18, 2025
+### End Date: Dec 18, 2025 (tentative)
+
+> End date subject to change as all work needs to finish earlier to create and prep for the oresentation? Date of presentation is also TBD.
 
 ## Project-Workflow
 
