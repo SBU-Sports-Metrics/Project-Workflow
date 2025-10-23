@@ -10,6 +10,10 @@ It goes without saying that we all need to read the full assignment PDF, rubric 
 
 **Sid and Jaison** it would be great if you both could individually map the assignment pdf to the rubric and list simple steps and deliverables for the project.
 
+**Initial discovery** by looking at the datasets early as Paul and Sid are doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting 
+
+## Basics
+
 As this is a collaborative project on Github, a great way to manage and deliver this project is by 
 
 - Formalizing individual **roles** and **work scope**
@@ -36,6 +40,7 @@ Jaison: Lit. review, Analysis
 
 Naira: Devices Research, Metrics determination, Lit. review, Analysis
 
+Initial discovery will guide our efforts to identify metrics sports etc.
 
 ## Work-scope TBD at our first team meeting. 
 
