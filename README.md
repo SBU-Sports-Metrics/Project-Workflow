@@ -2,9 +2,9 @@
 
 ### Start Date: Oct 23, 2025
 
-### End Date: Dec 01, 2025 (tentative)
+### Presentation Date: Dec 01, 2025 (tentative)
 
-### Semester end date: Dec 18, 2025 (to submit final github repo)
+### End date: Dec 18, 2025 (to submit final github repo)
 
 > End date subject to change as all work needs to finish earlier to create and prep for the oresentation? Date of presentation is also TBD.
 
