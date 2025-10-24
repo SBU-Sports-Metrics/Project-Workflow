@@ -12,13 +12,16 @@
 
 It goes without saying that we all need to read the full assignment PDF, rubric in 507 syllabus.
 
-**Sid and Jaison** it would be great if you both could individually map the assignment pdf to the rubric and list simple steps and deliverables for the project.
+**Sid and Jaison** created the documents about deliverables and the ask. Will bring them togther with the assignment pdf; so we know the nature of the beast we are dealing with.
 
-**Initial discovery** by looking at the datasets early as Paul and Sid are doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting 
+**Initial discovery** by looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting.  
 
 ## Basics
 
 As this is a collaborative project on Github, a great way to manage and deliver this project is by 
+
+- **Slow Down**
+    - LOGIC > The assignment started this wednesday at night; most of us will need time to wrap our heads around it. we need to be patient and not rush as that might risk ovehwelming the rest.
 
 - Formalizing individual **roles** and **work scope**
     - LOGIC > If we have overlapping roles it will create chaos and discord, impacting project deliverables.
@@ -31,6 +34,7 @@ As this is a collaborative project on Github, a great way to manage and deliver 
 
 - Determining **guidelines**
     - LOGIC > Collaborative work for a project of this sort can have issues if guidelines are not there. Eg. how to pull and push commits, what commits t do and what not to etc. If managing one repo is an issue, a collaboratively worked on repo is a minefield.
+
 
 ## Suggested project roles for project.
 
