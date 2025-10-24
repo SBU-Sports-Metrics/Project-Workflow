@@ -28,12 +28,13 @@ It goes without saying that we all need to read the full assignment PDF, rubric 
 
 <br />
 
-**Deliverables:** <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison created </a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid created </a> a  simpler deliverable document.
+**Deliverables:** <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison shared</a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid shared</a> a  simpler deliverable document.
 from the assignment PDF with deliverables and parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
 
 **Initial discovery:** By looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting. The images in teams a great way to learn from his work. he is a professional coder, we can all learn from him, when he has not gone to Mars! (**Mars** is anytime you are away PQ, not just upstate!)
 
-**Metrics** Naira has looked into the metrics; and has created a one pager we can work work with to better understand the metrics.
+**Metrics** Naira has looked into the metrics; and has <a href="https://drive.google.com/file/d/1R-qnnoZuQb98LAnnHjDDmJQgyfOLqqAM/view?usp=drive_link"> shared </a> a one pager we can work work with to better understand the metrics.
+
 
 **LLM Use:** when help from any LLM or tool is taken, please mention it in any work done. Ethical use of AI tools is allowed in education settings.
 
