@@ -4,14 +4,16 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing"> This Project Dashboard</a> will help us track the project and our work. It is for use in dark theme; I have dry eye syndrome so can only use dark themes. It is a WIP and I'll keep updating it. Please use it to plan your project work. 
 
+<br />
+
 <details open>
 <summary>Dates</summary>
 
-### Start Date: Oct 23, 2025
+#### Start Date: Oct 23, 2025
 
-### Presentation Date: Dec 01, 2025 (tentative)
+#### Presentation Date: Dec 01, 2025 (tentative)
 
-### End date: Dec 18, 2025 (to submit final github repo) 
+#### End date: Dec 18, 2025 (to submit final github repo) 
 
 > End date subject to change as all work needs to finish earlier to create and prep for the oresentation? Date of presentation is also TBD.
 
@@ -26,7 +28,8 @@ It goes without saying that we all need to read the full assignment PDF, rubric 
 
 <br />
 
-**Deliverables:** We now have simpler version of the assignment PDF with deliverables and and project parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
+**Deliverables:** <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison created </a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid created </a> a  simpler deliverable document.
+from the assignment PDF with deliverables and parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
 
 **Initial discovery:** By looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting. The images in teams a great way to learn from his work. he is a professional coder, we can all learn from him, when he has not gone to Mars! (**Mars** is anytime you are away PQ, not just upstate!)
 
