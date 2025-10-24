@@ -16,6 +16,8 @@ It goes without saying that we all need to read the full assignment PDF, rubric 
 
 **Initial discovery** by looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting.  
 
+**LLM Use** when help from any LLM or tool is taken, please mention it in any work done. Ethical use of AI tools is allowed in education settings.
+
 ## Basics
 
 As this is a collaborative project on Github, a great way to manage and deliver this project is by 
