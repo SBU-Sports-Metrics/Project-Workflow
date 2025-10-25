@@ -4,6 +4,7 @@
 - help understand the assignment
 - help come up with creative ideas
 - bring us all on the same page
+- each of us has to do commits into the repo in our own names, so we need to know what we are doing and are on top of it all: We all have things going on; we have to balance it out.
 
 <a href="https://drive.google.com/file/d/1fVslUFFqXLZrEfhSfWfWuMLo8lgFD6PJ/view?usp=drive_link">Assignment PDF</a>
 
@@ -11,7 +12,7 @@
 
 Not knowing coding should not be a discouragment because we have all got the skills from 506, 504 and 507. It certainly does not mean not giving our best effort to this project.
 
-We can all pitch in many ways. Listed below are some ways that came out of our first meeting today 10/24. 
+We can all pitch in many ways. Listed below in WORKFLOW are some ways that came out of our first meeting today 10/24. 
 
 >> **LLM Use:** when help from any LLM or tool is taken, please mention it in any work done. Ethical use, which includes giving credit where AI too(s) is used, is acceptable in education settings.
 
@@ -41,7 +42,7 @@ We can all pitch in many ways. Listed below are some ways that came out of our f
 
 >> **Metrics Ranges** >> **Naira** For the one pager you shared, please look up refrence ranges and what they mean
 
->> **5 Sports** >> Lacrosse M & W, Basketball M & W, Soccer M or W. **PAUL** please share if it will be Soccer M or W for the 5th sport.
+>> **5 Sports** >> **PAUL** has shared his findings in teams, so now we can determine Lacrosse M & W, Basketball M & W, Soccer M or W.
 
 >> **One Repo not forked** >> We should all work from one repo. Need to ask Hants if he is okay with it. He'd like to see work of all in one repo. Let's get an okay from him for the forked repo. 
 
