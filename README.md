@@ -36,6 +36,8 @@ We can all pitch in many ways. Listed below in WORKFLOW are some ways that came 
 
 <br />
 
+>> **References** Please list all your sources in some file in AMA style using a tool like <a href="https://www.mybib.com/tools/ama-citation-generator">this</a>. Even if using LLMs, especially for lit reviews, research, etc. 
+
 >> **Setup** >> Let's all get the setup and basci raw file discovery done by next meeting. **JAISON** sooner for you (pls see next point) 
 
 >> **Metrics** >> Following up on our call yest, **JAISON** please think about and create a plan for the Metrics building on our discussion. Part 1.3 could help. **SID**, please coordinate with Jaison on this metrics work he and I discussed.
