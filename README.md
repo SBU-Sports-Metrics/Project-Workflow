@@ -1,12 +1,21 @@
 # SBU-Sports-Metrics
 
-## Project Dashboard
+## Pls Read the FULL ASSIGNMENT PDF and RUBRIC in 507 syllabus because doing so will
+- help understand the assignment
+- help come up with creative ideas
+- bring us all on the same page
 
-<a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing"> This Project Dashboard</a> will help us track the project and our work. It is for use in dark theme; I have dry eye syndrome so can only use dark themes. It is a WIP and I'll keep updating it. Please use it to plan your project work. 
+<a href="https://drive.google.com/file/d/1fVslUFFqXLZrEfhSfWfWuMLo8lgFD6PJ/view?usp=drive_link">Assignment PDF</a>
 
-<br />
+<a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing">Project Dashboard</a>
 
-<details open>
+Not knowing coding should not be a discouragment because we have all got the skills from 506, 504 and 507. It certainly does not mean not giving our best effort to this project.
+
+We can all pitch in many ways. Listed below are some ways that came out of our first meeting today 10/24. 
+
+>> **LLM Use:** when help from any LLM or tool is taken, please mention it in any work done. Ethical use, which includes giving credit where AI too(s) is used, is acceptable in education settings.
+
+<details>
 <summary>Dates</summary>
 
 #### Start Date: Oct 23, 2025
@@ -17,35 +26,59 @@
 
 > End date subject to change as all work needs to finish earlier to create and prep for the oresentation? Date of presentation is also TBD.
 
-</details>
+</details> 
 
-## Project-Workflow
-
-It goes without saying that we all need to read the full assignment PDF, rubric in 507 syllabus.
+## Workflow
 
 <details open>
 <summary>Workflow</summary>
 
 <br />
 
-**Deliverables:** <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison shared</a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid shared</a> a  simpler deliverable document.
-from the assignment PDF with deliverables and parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
+>> **Setup** >> Let's all get the setup and basci raw file discovery done by next meeting. **JAISON** sooner for you (pls see next point) 
+
+>> **Metrics** >> Following up on our call yest, **JAISON** please think about and create a plan for the Metrics building on our discussion. Part 1.3 could help. **SID**, please coordinate with Jaison on this metrics work he and I discussed.
+
+>> **Metrics Ranges** >> **Naira** For the one pager you shared, please look up refrence ranges and what they mean
+
+>> **5 Sports** >> Lacrosse M & W, Basketball M & W, Soccer M or W. **PAUL** please share if it will be Soccer M or W for the 5th sport.
+
+>> **One Repo not forked** >> We should all work from one repo. Need to ask Hants if he is okay with it. He'd like to see work of all in one repo. Let's get an okay from him for the forked repo. 
+
+>> **Org Repo** >> Please note that ONLY **PAUL** pushes and commits to the repo for now. The rest of us work in our local VSCode, etc. The individual bit in part 1 just needs screenshots, which can be added anytime before Dec 18. We'll make sure all do commits individually.
+
+</details>
+
+<br />
+
+<details>
+<summary>Done</summary>
+
+<br />
+
+<a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing"> This Project Dashboard</a> will help us track the project and our work. It is for use in dark theme; I have dry eye syndrome so can only use dark themes. It is a WIP and I'll keep updating it. Please use it to plan your project work. 
+
+**Deliverables:** <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison shared</a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid shared</a> a  simpler deliverable document. from the assignment PDF with deliverables and parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
 
 **Initial discovery:** By looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting. The images in teams a great way to learn from his work. he is a professional coder, we can all learn from him, when he has not gone to Mars! (**Mars** is anytime you are away PQ, not just upstate!)
 
 **Metrics** Naira has looked into the metrics; and has <a href="https://drive.google.com/file/d/1R-qnnoZuQb98LAnnHjDDmJQgyfOLqqAM/view?usp=drive_link"> shared </a> a one pager we can work work with to better understand the metrics.
 
-
-**LLM Use:** when help from any LLM or tool is taken, please mention it in any work done. Ethical use of AI tools is allowed in education settings.
-
 </details>
 
 ## Basics
 
-As this is a collaborative project on Github, a great way to manage and deliver this project is by 
+- **Best practices** 
+    - LOGIC > Collaborative work has some basic best practices esp when it comes to working collaboratively on github, repo version control, analytics, etc.
 
-- **Slow Down**
-    - LOGIC > The assignment started this wednesday at night; most of us will need time to wrap our heads around it. we need to be patient and not rush as that might risk ovehwelming the rest.
+- **Guidelines**
+    - LOGIC > Collaborative work for a project of this sort can have issues if guidelines are not there. Eg. how to pull and push commits, what commits to do and what not to etc. If managing one repo is an issue, a collaboratively worked on repo is a minefield. 
+
+<details>
+<summary> Done </summary>
+
+- **Slowing Down**
+    - LOGIC > The assignment started this wednesday at night; most of us will need time to wrap our heads around it. we need to be patient and not  rush as that might risk ovehwelming the rest.
 
 - Formalizing individual **roles** and **work scope**
     - LOGIC > If we have overlapping roles it will create chaos and discord, impacting project deliverables.
@@ -53,28 +86,23 @@ As this is a collaborative project on Github, a great way to manage and deliver 
 - Working with **branches**
     - LOGIC > Individual work can be highlighted. Main branch is not messed with even accidently. We can do wat we want with our own branches. Hants will need to see individual work too. Branches would be a great way to showcase a proper basic collaborative project.
 
-- Using **best practices** 
-    - LOGIC > Collaborative work has some basic best practices esp when it comes to working collaboratively on github, repo version control, analytics, etc.
-
-- Determining **guidelines**
-    - LOGIC > Collaborative work for a project of this sort can have issues if guidelines are not there. Eg. how to pull and push commits, what commits t do and what not to etc. If managing one repo is an issue, a collaboratively worked on repo is a minefield.
+</details>
 
 
-## Suggested project roles for project.
+## Roles
 
-Sid: initial Research, Lit. review, Analysis, research on 1 metric
+Sid: METRICS, Lit. review, Analysis, research on 1 metric
 
 Paul: Code, Vizualizations, Analysis, research on 1 metric
 
 Briggs: Project Management, Code, Vizualizations, Analysis, Readme, research on 1 metric
 
-Jaison: Lit. review, Analysis, research on 1 metric
+Jaison: METRICS, Lit. review, Analysis, research on 1 metric
 
 Naira: Devices Research, Lit. review, Analysis, research on 1 metric
 
-Some aspects will be decided after initial discovery: eg. final sports and 5 Metrics, individual metric allocation etc.
 
-## Work-scope TBD at our first team meeting. 
+
 
 
 
