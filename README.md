@@ -32,51 +32,67 @@ We can all pitch in many ways. Listed below in WORKFLOW are some ways that came 
 ## Workflow
 
 <details>
-<summary>Workflow</summary>
+<summary>Github</summary>
 
 <br />
 
-**References** Please list all your sources in some file in AMA style using a tool like <a href="https://www.mybib.com/tools/ama-citation-generator">this</a>. Even if using LLMs, especially for lit reviews, research, etc. 
+**Org Repo** 
+- Please note that ONLY **PAUL** pushes and commits to the repo for now. 
+- The rest of us work in our local VSCode, etc. 
+- The individual bit in part 1 just needs screenshots, which can be added anytime before Dec 18. 
+- We'll make sure all do commits individually.
 
-**Setup** >> Let's all get the setup and basci raw file discovery done by next meeting. **JAISON** sooner for you (pls see next point) 
+**Committing individual work** 
+- To keep it simple, we are not using branches. We have subfolders for each of us for individual commits. We MUST avoid any MERGE CONFLICTS. 
 
-**Metrics** >> Following up on our call yest, **JAISON** please think about and create a plan for the Metrics building on our discussion. Part 1.3 and 1.4 could help. **SID**, please coordinate with Jaison on this metrics work he and I discussed.
+>> **STEPS TO COMMIT TO NAMESAKE SUBFOLDER**
 
-**Metrics Ranges** >> **Naira** For the one pager you shared, please look up refrence ranges and what they mean
+- When we push the whole local stuff gets pushed to main. Therefore, we need to ensure we commit to just the subfolder with our name. 
 
-**5 Sports** >> **PAUL** and I have explored the Data for teams and metrics etc. Lacrosse M & W, Basketball M & W, Soccer M or W seem to be good. 
-- LOGIC when each of us takes a metric and with it a sport, we will have a focused approach to the project and know the specific dataset drilled down to two focused variables.
+**Paul** to test commit a "test file" or ur "individual pdf etc" to his named folder.
+
+- Commands to test pushing to named subfolder. 
+
+```bash
+cd your-repo
+git add root/subfolder/foldername/*
+git commit -m "Update by Paul"
+git push origin main
+``` 
 
 </details>
 
 <br />
 
 <details>
-<summary>Github</summary>
+<summary>Workflow</summary>
 
-**Org Repo** >> Please note that ONLY **PAUL** pushes and commits to the repo for now. The rest of us work in our local VSCode, etc. The individual bit in part 1 just needs screenshots, which can be added anytime before Dec 18. We'll make sure all do commits individually.
+<br />
 
-**One Repo vs a forked** >> We should all work from one repo. Need to ask Hants if he is okay with it. He'd like to see work of all in one repo. Let's get an okay from him for the forked repo. 
+**References** 
+- Please list all your sources in some file in AMA style using a tool like <a href="https://www.mybib.com/tools/ama-citation-generator">this</a>. Even if using LLMs, especially for lit reviews, research, etc. 
 
->> **Committing individual work** To keep it simple, we are not using branches. We have subfolders for each of us for individual commits. We MUST avoid any MERGE CONFLICTS. 
+**Inital Setup & Exploration** 
+- Let's all get the setup and basic raw file discovery done by next meeting 10/31. 
 
-**STEPS TO COMMIT TO NAMED SUBFOLDER**
+**Metrics**
+- **Sid** 
+    - based on the comments shared in the Teams Chat, please build on <a href="https://drive.google.com/file/d/1OPB1lbhWZfwa0I2fBVeQRgSOsEjmTX4N/view?usp=drive_link">Jaison's analysis</a>
+    - Re: Teams chat messages, there are ideas shared about researching metrics.
 
-When we push the whole local stuff gets pushed to main. Therefore, we need to ensure we commit to just the subfolder with our name. 
+**Metrics**
+- **Metrics Ranges** 
+    - **Naira** For the one pager you shared, please look up reference ranges and what they mean
+- **Merics Research** 
+    - **Naira** Re: messages in teams chat.
 
-**Paul** to test commit a "test file" or ur "individual pdf etc" to his named folder.
+**5 Sports** 
+- Basketfall (M&W), Soccer (M&W), Football seem to be good choices because of data volume and NCAA based research opportunities.
+- Earlier we were exploring Lacrosse M & W, Basketball M & W, Soccer M or W seem to be good. .
+    - LOGIC >> when each of us takes a metric and with it a sport, we will have a focused approach to the project and know the specific dataset drilled down to two focused variables.
 
-Commands to test pushing to named subfolder. 
-
-`cd your-repo`
-
-`git add root/subfolder/foldername/*`
-
-`git commit -m "Update by Paul"`
-
-`git push origin main`
- 
 </details>
+
 <br />
 
 <details>
@@ -84,15 +100,32 @@ Commands to test pushing to named subfolder.
 
 <br />
 
-**5 Sports** >> **PAUL** has shared his findings in teams. I so now we can determine Lacrosse M & W, Basketball M & W, Soccer M or W.
+**5 Sports** 
+- **PAUL** has shared his findings in teams, so now we can determine Lacrosse M & W, Basketball M & W, Soccer M or W.
 
-**Metrics** Naira has looked into the metrics; and has <a href="https://drive.google.com/file/d/1R-qnnoZuQb98LAnnHjDDmJQgyfOLqqAM/view?usp=drive_link"> shared </a> a one pager we can work work with to better understand the metrics.
+**Metrics** 
 
-**Initial discovery:** By looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting. The images in teams a great way to learn from his work. he is a professional coder, we can all learn from him, when he has not gone to Mars! (**Mars** is anytime you are away PQ, not just upstate!)
+- Naira has looked into the metrics; and has <a href="https://drive.google.com/file/d/1R-qnnoZuQb98LAnnHjDDmJQgyfOLqqAM/view?usp=drive_link"> shared </a> a one pager we can work work with to better understand the metrics.
 
-**Deliverables:** <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison shared</a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid shared</a> a  simpler deliverable document. from the assignment PDF with deliverables and parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
+- Following up on our call yest, **JAISON** please think about and create a plan for the Metrics building on our discussion. Part 1.3 and 1.4 could help. **SID**, please coordinate with Jaison on this metrics work he and I discussed.
 
-<a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing"> This Project Dashboard</a> will help us track the project and our work. It is for use in dark theme; I have dry eye syndrome so can only use dark themes. It is a WIP and I'll keep updating it. Please use it to plan your project work. 
+**GitHub**
+
+- One Repo vs a forked
+    - We should all work from one repo. Need to ask Hants if he is okay with it. He'd like to see work of all in one repo. Let's get an okay from him for the forked repo. 
+
+**One Repo vs a forked** 
+- We should all work from one repo. Need to ask Hants if he is okay with it. He'd like to see work of all in one repo. Let's get an okay from him for the forked repo. 
+
+**Initial discovery:** 
+
+- By looking at the datasets early as Paul is doing will help identify initial metrics etc that we can make a note of any discuss in the team meeting. The images in teams a great way to learn from his work. he is a professional coder, we can all learn from him, when he has not gone to Mars! (**Mars** is anytime you are away PQ, not just upstate!)
+
+**Deliverables:** 
+
+- <a href="https://drive.google.com/file/d/17LduVg3WvynBAhsVIPSz_1B0waTUVw2e/view?usp=drive_link"> Jaison shared</a> a tabular deliverables with details mapped to rubric. <a href="https://drive.google.com/file/d/1QmyHZ6C8zxeYClI2dNw2fpnXIkcEc5iq/view?usp=drive_link"> Sid shared</a> a  simpler deliverable document. from the assignment PDF with deliverables and parts. I used these and the assignment PDF to create the dashboard so we know the nature of the beast we are dealing with.
+
+- <a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing"> This Project Dashboard</a> will help us track the project and our work. It is for use in dark theme; I have dry eye syndrome so can only use dark themes. It is a WIP and I'll keep updating it. Please use it to plan your project work. 
 
 </details>
 
