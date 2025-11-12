@@ -2,6 +2,9 @@
 
 <a href="https://drive.google.com/file/d/1fVslUFFqXLZrEfhSfWfWuMLo8lgFD6PJ/view?usp=drive_link">Assignment PDF</a> // <a href="https://docs.google.com/spreadsheets/d/1D2qgsdDQvDmkh-0KBP8ZeCN6XTDnlafE4FvzQxHsMNw/edit?usp=sharing">Project Dashboard</a>
 
+Workflow moved to Github **<a href="https://github.com/orgs/SBU-Sports-Metrics/projects/1/views/1">here</a>**
+
+
 > **LLM Use:** when help from any LLM or tool is taken, please mention it in any work done. Ethical use, which includes giving credit where AI too(s) is used, is acceptable in education settings.
 
 <details>
@@ -85,7 +88,7 @@ git push origin main
 
 <br />
 
-<details open>
+<details>
 <summary>WORKFLOW <-----</summary>
 
 <br />
